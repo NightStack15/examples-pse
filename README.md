@@ -32,8 +32,11 @@ To run the Python scripts, navigate to the directory in which they
 are held and either use a command or graphical Python interface (see this 
 [README-developer](README-developer.md)).
 
+
 ### Running Jupyter Notebooks
 
+
+/////
 Many of the examples are [Jupyter Notebooks](https://jupyter.org).
 To help navigate them, there is an index with short descriptions
 at the top-level in a notebook "notebook_index.ipynb". To use this, run:
