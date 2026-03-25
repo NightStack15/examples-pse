@@ -35,8 +35,6 @@ are held and either use a command or graphical Python interface (see this
 
 ### Running Jupyter Notebooks
 
-
-/////
 Many of the examples are [Jupyter Notebooks](https://jupyter.org).
 To help navigate them, there is an index with short descriptions
 at the top-level in a notebook "notebook_index.ipynb". To use this, run:
